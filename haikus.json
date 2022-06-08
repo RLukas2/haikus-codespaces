@@ -8,15 +8,19 @@
         "image": "vinyltocat.jpeg"
     },
     {
-        "text": "Snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "text": "Snow is still falling,\nis it time for apres yet?\nlet's do one more run!",
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "Beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "Beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug...",
         "image": "Robotocat.jpeg"
     },
     {
-        "text": "Same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "text": "Same plot as before,\nso why is it still awesome?\ni think it's the hat.",
         "image": "linktocat.jpg"
+    },
+    {
+        "text": "Thank Github for letting us for testing and developning with Github Codespaces!",
+        "image": "Robotocat.jpeg"
     }
 ]
